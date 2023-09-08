@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS", 
+      "types": ["jest", "node", "reflect-metadata"],
+      "target": "ES6",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata":true
+    }
+  }
