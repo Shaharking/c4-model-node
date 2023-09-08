@@ -6,7 +6,8 @@ Transform Structurizr DSL to Images/Wiki Pages
 In the first layer, we focus on simplifying the process of transforming Structurizr DSL code into images or wiki pages. This layer aims to streamline the documentation process, making it easier to share your software architecture diagrams with others.
 
 ## Layer 2 - Structurizr DSL in TypeScript
-The second layer introduces a powerful approach by enabling you to use Structurizr DSL in TypeScript. This means you can leverage the familiarity of TypeScript, benefiting from autocompletion, variables, loops, and all the features you are comfortable with. Think of it as "diagram-as-code" – similar to how AWS CDK provides infrastructure as code in TypeScript. Our aim is to support all the features of the Structurizr language, providing you with a seamless experience for documenting your architecture.
+The second layer introduces a powerful approach by enabling you to use Structurizr DSL in TypeScript. This means you can leverage the familiarity of TypeScript, benefiting from autocompletion, variables, loops, and all the features you are comfortable with. Think of it as "diagram-as-code" – similar to how AWS CDK provides infrastructure as code in TypeScript. <Br>
+Our aim is to support all the features of the Structurizr language, providing you with a seamless experience for documenting your architecture.
 
 ## Layer 3 - Improving Layer 2
 Layer 3 builds upon the foundation laid in Layer 2. Our focus is on enhancing your experience by introducing heuristics and various methods, including decorators, to make expressing your architecture diagrams in your source code even faster and more efficient. The goal is to make your diagram-building process as intuitive and productive as possible.
