@@ -1,5 +1,5 @@
 # Project Goal
-The goal of the Structurizr DSL to Code Generator project is to make it easier for developers to write and document their software architecture using Structurizr. We achieve this goal by providing different layers of abstraction, allowing you to choose the level of control and convenience that suits your needs.
+The goal of the project is to make it easier for developers to write and document their software architecture using Structurizr. We achieve this goal by providing different layers of abstraction, allowing you to choose the level of control and convenience that suits your needs.
 
 ## Layer 1
 Transform Structurizr DSL to Images/Wiki Pages
